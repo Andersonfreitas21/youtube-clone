@@ -4,7 +4,7 @@
 Um aplicativo de streaming de vídeo como o Youtube, obviamente, não é o clone completo do Youtube, mas apenas um conjunto mínimo de funcionalidades, o que é comum para aplicativos de streaming de vídeo como o Youtube.
 
 
-![youtube_clone_Architecture.jpg](..%2F..%2FDownloads%2Fyoutube_clone_Architecture.jpg)
+![youtube_clone_Architecture.jpg](https://github.com/Andersonfreitas21/files/blob/main/youtube_clone_Architecture.jpg)
 
 
 ## 🛠 Tecnologias
