@@ -11,6 +11,8 @@ Um aplicativo de streaming de vídeo como o Youtube, obviamente, não é o clone
 
 - **[Java 17](https://www.oracle.com/java)**
 - **[Spring Boot](https://spring.io/projects/spring-boot)**
+- **[AWS S3](https://aws.amazon.com/pt/s3/)**
+- **[Angular](https://angular.io/)**
 - **[Maven](https://maven.apache.org)**
 - **[MongoDB](https://www.mongodb.com/pt-br)**
 - **[Hibernate](https://hibernate.org)**
